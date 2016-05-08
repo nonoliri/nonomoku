@@ -1,0 +1,7 @@
+DaoType=S2Dao
+DefaultResourcePath=/nonomoku/src/main/resources
+DefaultRootPackage=jp.co.nonomoku
+DefaultSrcPath=/nonomoku/src/main/java
+ServletPath=nonomoku
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
